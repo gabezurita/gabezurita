@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello World
 
-<!--
-**gabezurita/gabezurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chilean-American software engineer passionate about learning, growth, and making meaningful contributions through collaboration. Welcome to my GitHub profile—your digital gateway to connecting with me, whether for projects, ideas, or to say hi!
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect about web development, books, photography, climbing, skiing, or even to say hello! Below are the best ways to reach me. Cheers!
+
+- 🌐 [Personal Site](https://gabo.online)
+- 📧 [Email](mailto:info@gabo.com)
+- 🐙 [GitHub](https://github.com/gabezurita)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabezurita)
+- 📚 [Goodreads](https://www.goodreads.com/user/show/24408801-gabriel-zurita)
+- 📸 [Flickr](https://www.flickr.com/gabezurita)
+- 📷 [Instagram](https://www.instagram.com/gabezurita/)
+- 🎮 [Steam](https://steamcommunity.com/id/gabezurita/)
+- 🎧 [Spotify](https://open.spotify.com/user/1270298450?si=506a763c74114983)
+
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabezurita&show_icons=true&theme=radical)
