@@ -15,7 +15,3 @@ Feel free to connect about web development, books, photography, climbing, skiing
 - 📷 [Instagram](https://www.instagram.com/gabezurita/)
 - 🎮 [Steam](https://steamcommunity.com/id/gabezurita/)
 - 🎧 [Spotify](https://open.spotify.com/user/1270298450?si=506a763c74114983)
-
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabezurita&show_icons=true&theme=radical)
