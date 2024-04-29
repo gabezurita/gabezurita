@@ -1,7 +1,3 @@
-# 👋 Hello World
-
-I'm a Chilean-American software engineer passionate about learning, growth, and making meaningful contributions through collaboration. Welcome to my GitHub profile—your digital gateway to connecting with me, whether for projects, ideas, or to say hi!
-
 ## 📫 Contact
 
 Feel free to connect about web development, books, photography, climbing, skiing, or even to say hello! Below are the best ways to reach me. Cheers!
