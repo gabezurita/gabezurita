@@ -4,8 +4,8 @@ Feel free to connect about web development, books, photography, climbing, skiing
 
 - 🌐 [Personal Site](https://gabo.online)
 - 📧 [Email](mailto:info@gabo.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gabezurita)
-- 🔗 [Facebook](https://www.facebook.com/gzurita/)
+- 🕴️ [LinkedIn](https://www.linkedin.com/in/gabezurita)
+- 🧑‍🤝‍🧑 [Facebook](https://www.facebook.com/gzurita/)
 - 📚 [Goodreads](https://www.goodreads.com/user/show/24408801-gabriel-zurita)
 - 📸 [Flickr](https://www.flickr.com/gabezurita)
 - 📷 [Instagram](https://www.instagram.com/gabezurita/)
