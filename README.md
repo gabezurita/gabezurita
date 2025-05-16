@@ -3,7 +3,7 @@
 Feel free to connect about web development, books, photography, climbing, skiing, or even to say hello! Below are the best ways to reach me. Cheers!
 
 - 🌐 [Personal Site](https://gabo.online)
-- 📧 [Email](mailto:info@gabo.com)
+- 📧 [Email](mailto:info@gabo.online)
 - 🕴️ [LinkedIn](https://www.linkedin.com/in/gabezurita)
 - 🧑‍🤝‍🧑 [Facebook](https://www.facebook.com/gzurita/)
 - 📚 [Goodreads](https://www.goodreads.com/user/show/24408801-gabriel-zurita)
